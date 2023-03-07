@@ -20,8 +20,8 @@
 - ✨ English language
 
 ### - Hobbies : 
-- ✨ Gaming Addict 🎮
-- ✨ Watching Anime 📺
+- ✨ Game Addict 🎮
+- ✨ Watch Anime 📺
 - ✨ Basketball 🏀
 - ✨ Ping Pong 🎾
 
