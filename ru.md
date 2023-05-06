@@ -1,4 +1,4 @@
-# Alex Congritta
+# Ayubkhan Khakimov
 
 16 года, Верстальщик.
 
