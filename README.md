@@ -1,4 +1,4 @@
-# Alex Congritta
+# Ayubkhan Khakimov
 
 I`m __16 years old__. I do __HTML/CSS/JS__ projects.
 
