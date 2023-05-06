@@ -1,86 +1,40 @@
-# Hello 👋
+# Alex Congritta
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
+I`m __16 years old__. I do __HTML/CSS/JS__ projects.
 
-</br>
-</br>
-</br>
+---
 
+## My skills:
 
-# About ME 💬 :
+### Languages
 
-### - I'm 16 years, I am Frontend Developer from Uzbekistan.
+ - __HTML__ (Semantic, SEO optimized and easy to read and modify code);
+ - __CSS__. I can CSS animations, clean and responsive layout, cross-browser support. No libs if not neccessary. Usually I use Sass;
+ - __JavaScript__. I know how does JavaScript work, what are threads, promises, async code, ticks and more. I know & can objects, classes, inheritance, literals, MVC and more;
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+### Frameworks
 
-### - Learning :
-- ✨ Programming
-- ✨ English language
+- __Vue__. Rarely I do projects with Vue. I know it some well;
 
-### - Hobbies : 
-- ✨ Game Addict 🎮
-- ✨ Watch Anime 📺
-- ✨ Basketball 🏀
-- ✨ Ping Pong 🎾
+### Other
+ - __Git__. I can use Git and I can work in developers team using git for syncing code;
+ - __WordPress__.
+ - __Modx__.
+ - __Bitrix__.
 
-</br>
-</br>
-</br>
+---
 
+## Reasons for working with me
 
+ - I do quality work. I use world programmers wide best practices; I use ES Lint for supporting quality of my code; I know how to do web apps more productive, fast and optimized;
+ - I do my work on time. It`s important to me. If a get problems or get having not enough time to finish my work, I say my customer about it for get the work replanned;
+ - I've been doing coding most of my life. It`s my hobby. I like to learn and use something new
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
+## My contacts
 
-<p align="center">
+Telegram: [@ayubkhan_dev](https://t.me/ayubkhan_dev)\
+E-Mail: khakimovayubkhan@gmail.com
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/html.png" alt="html" width="120" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/css3.png" alt="css"  width="120" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/js.png" alt="JS" width="120" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/vue.png" alt="bash" width="120" hight="50">
-</p>
-</br>
-</br>
-</br>
+---
 
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-
-<a href="https://t.me/ayubkhan_dev">
- <img align="left" alt="Telegram" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/telegram.png" />
-</a>
-</br>
-<a href="mailto:khakimovayubkhan@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-</br>
-<a href="https://wa.me/998979900255">
- <img align="left" alt="Whatsapp" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/whatsapp.png" />
-</a>
-</a>
-</p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-*************
+[Версия сайта на русском языке](/ru.md)
