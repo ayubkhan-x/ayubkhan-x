@@ -1,40 +1,43 @@
-# Ayubkhan Khakimov
+# Привет, меня зовут Аюб!
 
-I`m __16 years old__. I do __HTML/CSS/JS__ projects.
+Мне 17 лет и я Верстальщик.
+
+<p align="center">
+ <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" alt="snake"/>
+</p>
 
 ---
 
-## My skills:
+## Навыки:
 
-### Languages
+### Языки
 
- - __HTML__ (Semantic, SEO optimized and easy to read and modify code);
- - __CSS__. I can CSS animations, clean and responsive layout, cross-browser support. No libs if not neccessary. Usually I use Sass;
- - __JavaScript__. I know how does JavaScript work, what are threads, promises, async code, ticks and more. I know & can objects, classes, inheritance, literals, MVC and more;
+ - __HTML__ (Семантичный, SEO оптимизированный и лёгкий для модификации/чтения код);
+ - __CSS__. Умею делать CSS-анимации, чистая и адаптивная вёрстка. Использую библиотеки только по необходимости. Чаще всего пользуюсь препроцессором Sass;
+ - __JavaScript__. Я знаю JavaScript на очень высоком уровне, знаю как там всё работает изнутри. В частности знаю и умею в многопоточность, промисы, асинхронный код, тики и другое. Умею в функциональное программирование и другое;
 
-### Frameworks
-
-- __Vue__. Rarely I do projects with Vue. I know it some well;
+### Фреймворки
+  - __Vue__. Иногда пишу проекты на Vue. Не знаю этот язык и его экосистему в идеале;
 
 ### Other
- - __Git__. I can use Git and I can work in developers team using git for syncing code;
- - __WordPress__.
+ - __Git__. commit, push, pull, stash, rebase, merge и другие приёмы я использую для синхронизации моего кода с командой разработчиков;
+  - __WordPress__.
  - __Modx__.
  - __Bitrix__.
 
 ---
 
-## Reasons for working with me
+## Причины работать со мной
 
- - I do quality work. I use world programmers wide best practices; I use ES Lint for supporting quality of my code; I know how to do web apps more productive, fast and optimized;
- - I do my work on time. It`s important to me. If a get problems or get having not enough time to finish my work, I say my customer about it for get the work replanned;
- - I've been doing coding most of my life. It`s my hobby. I like to learn and use something new
+ - Я делаю работу качественно. Никогда не оставляю костылей в коде, тщательно тестирую выполнение кода и умею выстраивать работу таким образом, чтобы конечный клиент пользовался только стабильной версией продукта;
+ - Я делаю работу вовремя. Умею оценивать сроки своей работы так, чтобы они не поджимали под конец работы и ещё оставалось время на конечные тестирование и запуск проекта. Всегда держу заказчика в курсе текущего процесса работы и если что-то отклоняется от планов, мы об этом знаем оба и заблаговременно;
+ - Я всегда планирую работу и разбиваю на куски. У меня не бывает абстрактных планов на недели и месяцы вперёд, а каждый день чётко расписан;
 
-## My contacts
+## Контакты
 
 Telegram: [@ayubkhan_dev](https://t.me/ayubkhan_dev)\
 E-Mail: khakimovayubkhan@gmail.com
 
 ---
 
-[Версия сайта на русском языке](/ru.md)
+[English version of this site](/ru.md)
