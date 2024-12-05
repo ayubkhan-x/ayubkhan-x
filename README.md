@@ -1,6 +1,6 @@
 # Привет, меня зовут Аюб!
 
-Мне 17 лет и я Верстальщик.
+Мне 18 лет и я Фронтенд разработчик.
 
 <p align="center">
  <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" alt="snake"/>
@@ -20,7 +20,6 @@
   - __Vue__. Иногда пишу проекты на Vue. Не знаю этот язык и его экосистему в идеале;
 
 ### Другие
- - __Git__. commit, push, pull, stash, rebase, merge и другие приёмы я использую для синхронизации моего кода с командой разработчиков;
   - __WordPress__.
  - __Modx__.
  - __Bitrix__.
