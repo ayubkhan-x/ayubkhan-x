@@ -1,6 +1,6 @@
-# Hi, my name is Ayub! 
+# Hi, my name is Ayub!
 
-I`m __17 years old__. I do __HTML/CSS/JS__ projects.
+I`m __18 years old__. I do __HTML/CSS/JS__ projects.
 
 <p align="center">
  <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" alt="snake"/>
@@ -8,20 +8,17 @@ I`m __17 years old__. I do __HTML/CSS/JS__ projects.
 
 ---
 
-## My skills:
+## Skills:
 
 ### Languages
 
  - __HTML__ (Semantic, SEO optimized and easy to read and modify code);
  - __CSS__. I can CSS animations, clean and responsive layout, cross-browser support. No libs if not neccessary. Usually I use Sass;
  - __JavaScript__. I know how does JavaScript work, what are threads, promises, async code, ticks and more. I know & can objects, classes, inheritance, literals, MVC and more;
+- __Vue__ | __React__. I occasionally write projects, learning and growing;
 
-### Frameworks
-
-- __Vue__. Rarely I do projects with Vue. I know it some well;
 
 ### Other
- - __Git__. I can use Git and I can work in developers team using git for syncing code;
  - __WordPress__.
  - __Modx__.
  - __Bitrix__.
